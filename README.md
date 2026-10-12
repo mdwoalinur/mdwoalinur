@@ -40,7 +40,7 @@
 
 **Company:** Elevate IT
 
-**Specialization:** Full-Stack Software Development
+**Specialization:** Full-Stack Web and Software Development
 
 📍 Dhaka, Bangladesh
 
@@ -81,7 +81,7 @@ I use modern AI tools and AI-assisted development workflows to support software 
 |---|---|
 | Profession | Web and Software Developer |
 | Company | Elevate IT |
-| Specialization | Full-Stack Software Development |
+| Specialization | Full-Stack Web and Software Development |
 | Location | Dhaka, Bangladesh |
 
 ---
