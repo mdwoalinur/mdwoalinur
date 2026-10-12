@@ -1,8 +1,9 @@
+
 <div align="center">
 
 # Hi, I'm Md. Woalinur 👋
 
-### Full-Stack Software Developer from Bangladesh
+### Web and Software Developer | Full-Stack Software Development
 
 **Building scalable web and mobile solutions with modern technologies and AI-assisted development.**
 
@@ -15,6 +16,9 @@
   </a>
   <a href="https://github.com/mdwoalinur">
     <img src="https://img.shields.io/badge/GitHub-mdwoalinur-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://mdwoalinur.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0E75B6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
 </p>
 
@@ -32,29 +36,34 @@
 
 ### Md. Woalinur
 
-**Full-Stack Software Developer**
+**Web and Software Developer**
+
+**Company:** Elevate IT
+
+**Specialization:** Full-Stack Software Development
 
 📍 Dhaka, Bangladesh
 
-</td>
+<a href="https://mdwoalinur.github.io/">Portfolio Website</a>
 
+</td>
 <td>
 
 ### Building Scalable Solutions & Solving Real Problems
 
-I am a Full-Stack Software Developer focused on building secure, scalable, maintainable, and user-friendly web and mobile applications.
+I am a Web and Software Developer at **Elevate IT**, specializing in Full-Stack Software Development. I focus on building secure, maintainable, scalable, and user-friendly web and mobile applications.
 
-My primary development stack includes **Java, Spring Boot, Angular, MySQL, Flutter, Dart, and native Android development with Java and XML**.
+My core development experience includes **Java, Spring Boot, Angular, MySQL, Flutter, Dart, and native Android development using Java and XML**. I am also learning and building projects with **React, Next.js, and Express.js**.
 
-I also use modern AI tools and AI-assisted development workflows for software planning, implementation, debugging, refactoring, documentation, testing support, and technical problem-solving.
+I use modern AI tools and AI-assisted development workflows to support software planning, implementation, debugging, refactoring, documentation, and testing.
 
 **Core Development**
 
-`Java` `Spring Boot` `Angular` `Flutter` `Android` `MySQL`
+`Java` `Spring Boot` `Angular` `React` `Next.js` `Express.js` `Flutter` `Android` `MySQL`
 
 **Development Focus**
 
-`REST API` `Spring Security` `JWT` `Full-Stack Development` `Mobile Development`
+`REST API` `Spring Security` `JWT` `Full-Stack Development` `Web Development` `Mobile Development`
 
 **AI Development**
 
@@ -66,15 +75,29 @@ I also use modern AI tools and AI-assisted development workflows for software pl
 
 ---
 
+## 💼 Current Occupation
+
+| Category | Details |
+|---|---|
+| Profession | Web and Software Developer |
+| Company | Elevate IT |
+| Specialization | Full-Stack Software Development |
+| Location | Dhaka, Bangladesh |
+
+---
+
 ## 🚀 Current Focus
 
-- Building enterprise-style full-stack applications with Spring Boot and Angular
+- Developing full-stack applications using Java, Spring Boot, and Angular
+- Learning and building web applications with React and Next.js
+- Learning backend development with Express.js and Node.js
+- Deploying web applications using Vercel and GitHub Pages
 - Developing cross-platform mobile applications with Flutter
-- Building native Android applications with Java and XML
-- Implementing secure REST APIs with Spring Security and JWT
+- Building native Android applications using Java and XML
+- Implementing REST APIs and secure authentication workflows
 - Improving software architecture, testing, and clean coding practices
-- Using AI-assisted development workflows for efficient software engineering
-- Building production-quality projects for my professional portfolio
+- Using AI-assisted development workflows for software engineering
+- Building practical projects for my professional portfolio
 
 ---
 
@@ -83,26 +106,26 @@ I also use modern AI tools and AI-assisted development workflows for software pl
 ### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,dart,typescript,javascript" alt="Programming Languages">
+  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,dart" alt="Programming Languages">
 </p>
 
-`Java` `Dart` `TypeScript` `JavaScript`
+`Java` `JavaScript` `TypeScript` `Dart` `SQL`
 
 ### Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,maven" alt="Backend Technologies">
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,maven" alt="Backend Technologies">
 </p>
 
-`Spring Boot` `Spring Security` `REST API` `JWT` `JPA` `Hibernate` `Maven`
+`Java` `Spring Boot` `Spring Security` `Node.js` `Express.js` `REST API` `JWT` `JPA` `Hibernate` `Maven`
 
 ### Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,html,css,bootstrap" alt="Frontend Technologies">
+  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,html,css,bootstrap" alt="Frontend Technologies">
 </p>
 
-`Angular` `TypeScript` `JavaScript` `HTML5` `CSS3` `Bootstrap`
+`Angular` `React` `Next.js` `TypeScript` `JavaScript` `HTML5` `CSS3` `Bootstrap`
 
 ### Mobile Application Development
 
@@ -119,6 +142,10 @@ I also use modern AI tools and AI-assisted development workflows for software pl
 </p>
 
 `MySQL` `Oracle Database` `SQLite` `Git` `GitHub` `Postman` `VS Code` `IntelliJ IDEA` `Android Studio`
+
+### Deployment & Hosting
+
+`Vercel` `GitHub Pages` `Git` `GitHub`
 
 ---
 
@@ -159,6 +186,24 @@ AI-generated output is reviewed, tested, and validated before being accepted int
 
 ## 🏆 Featured Projects
 
+### 🌐 Business Next.js — Business Web Application
+
+A business-focused web application built with Next.js and deployed on Vercel.
+
+**Technology Stack**
+
+`React` `Next.js` `JavaScript` `Vercel`
+
+**Live Demo**
+
+[View Live Application](https://business-nextjs-rust.vercel.app/)
+
+**Repository**
+
+[GitHub Repository](https://github.com/mdwoalinur/business-nextjs)
+
+---
+
 ### 📦 TradeMaster — Inventory and Stock Management System
 
 Enterprise-style inventory and business management system developed with Spring Boot, Angular, and MySQL.
@@ -182,14 +227,14 @@ Enterprise-style inventory and business management system developed with Spring 
 
 **Repositories**
 
-- 🔗 [Spring Boot Backend](https://github.com/mdwoalinur/trademaster-spring-boot-backend)
-- 🔗 [Angular Frontend](https://github.com/mdwoalinur/trademaster-angular-frontend)
+- [Spring Boot Backend](https://github.com/mdwoalinur/trademaster-spring-boot-backend)
+- [Angular Frontend](https://github.com/mdwoalinur/trademaster-angular-frontend)
 
 ---
 
 ### 🛒 TechSmart Shop — Flutter E-Commerce Application
 
-Modern Flutter-based customer e-commerce application with a dedicated Spring Boot backend and complete order-processing workflows.
+Flutter-based customer e-commerce application with a Spring Boot backend and order-processing workflows.
 
 **Key Features**
 
@@ -210,8 +255,8 @@ Modern Flutter-based customer e-commerce application with a dedicated Spring Boo
 
 **Repositories**
 
-- 🔗 [Flutter Frontend](https://github.com/mdwoalinur/techsmart-shop-flutter-frontend)
-- 🔗 [Spring Boot Backend](https://github.com/mdwoalinur/techsmart-shop-flutter-backend)
+- [Flutter Frontend](https://github.com/mdwoalinur/techsmart-shop-flutter-frontend)
+- [Spring Boot Backend](https://github.com/mdwoalinur/techsmart-shop-flutter-backend)
 
 ---
 
@@ -235,8 +280,8 @@ Native Android client for the TradeMaster Inventory and Stock Management System.
 
 **Repositories**
 
-- 🔗 [Android Frontend](https://github.com/mdwoalinur/trademaster-android-frontend)
-- 🔗 [Spring Boot Backend](https://github.com/mdwoalinur/trademaster-android-backend)
+- [Android Frontend](https://github.com/mdwoalinur/trademaster-android-frontend)
+- [Spring Boot Backend](https://github.com/mdwoalinur/trademaster-android-backend)
 
 ---
 
@@ -250,7 +295,7 @@ Responsive website developed with HTML, CSS, and Bootstrap and deployed using Gi
 
 **Repository**
 
-- 🔗 [View Repository](https://github.com/mdwoalinur/codegenltd.github.io)
+[View Repository](https://github.com/mdwoalinur/codegenltd.github.io)
 
 ---
 
@@ -278,7 +323,7 @@ Professional training and practical development experience in:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdwoalinur&hide_border=true&theme=github-compact" alt="Md. Woalinur GitHub Activity Graph">
+<img src="https://ghchart.rshah.org/0e75b6/mdwoalinur" alt="Md. Woalinur GitHub Contribution Chart" width="100%">
 
 </div>
 
@@ -300,6 +345,10 @@ Professional training and practical development experience in:
   <img src="https://img.shields.io/badge/GitHub-mdwoalinur-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
+<a href="https://mdwoalinur.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0E75B6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+</a>
+
 </p>
 
 ---
@@ -308,6 +357,6 @@ Professional training and practical development experience in:
 
 ### “Learning continuously, building responsibly, and solving real-world problems through software.”
 
-![Profile Views](https://komarev.com/ghpvc/?username=mdwoalinur&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=mdwoalinur&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge)
 
 </div>
