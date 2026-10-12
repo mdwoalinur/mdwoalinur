@@ -305,7 +305,7 @@ Responsive website developed with HTML, CSS, and Bootstrap and deployed using Gi
 
 Professional training and practical development experience in:
 
-`Core Java` `Advanced Java` `Oracle Database` `JDBC` `Servlet` `JSP` `JSF` `Hibernate` `Spring Framework` `Spring Boot` `Spring Security` `REST API` `Angular` `MySQL` `Android Development` `Software Engineering Practices`
+`Core Java` `Advanced Java` `Oracle Database` `MySQL` `JDBC` `Servlet` `JSP` `JSF` `Hibernate` `Spring Framework` `Spring Boot` `Spring Security` `REST API` `Angular` `next.js` `Android Development` `Software Engineering Practices`
 
 ---
 
@@ -355,8 +355,6 @@ Professional training and practical development experience in:
 
 <div align="center">
 
-### “Learning continuously, building responsibly, and solving real-world problems through software.”
-
-![Profile Views](https://komarev.com/ghpvc/?username=mdwoalinur&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge)
+### “Learning continuously, building responsibly, and solving real-world problems through web and software.”
 
 </div>
