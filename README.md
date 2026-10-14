@@ -3,7 +3,7 @@
 
 # Hi, I'm Md. Woalinur 👋
 
-### Web and Software Developer | Full-Stack Software Development
+### Web & Software Developer
 
 **Building scalable web and mobile solutions with modern technologies and AI-assisted development.**
 
@@ -51,7 +51,7 @@
 
 ### Building Scalable Solutions & Solving Real Problems
 
-I am a Web and Software Developer at **Elevate IT**, specializing in Full-Stack Software Development. I focus on building secure, maintainable, scalable, and user-friendly web and mobile applications.
+I am a Web and Software Developer at **Elevate IT**, specializing in Full-Stack Web & Software Development. I focus on building secure, maintainable, scalable, and user-friendly web and mobile applications.
 
 My core development experience includes **Java, Spring Boot, Angular, MySQL, Flutter, Dart, and native Android development using Java and XML**. I am also learning and building projects with **React, Next.js, and Express.js**.
 
@@ -59,7 +59,7 @@ I use modern AI tools and AI-assisted development workflows to support software 
 
 **Core Development**
 
-`Java` `Spring Boot` `Angular` `React` `Next.js` `Express.js` `Flutter` `Android` `MySQL`
+`Java` `JavaScript` `Spring Boot` `Angular` `React` `Next.js` `Express.js` `Flutter` `Android` `MySQL`
 
 **Development Focus**
 
